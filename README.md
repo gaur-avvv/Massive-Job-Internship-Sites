@@ -648,6 +648,3 @@ Every major university has a career center job board—often open to alumni:
 - CareerJet API (available)
 - Jooble API (available)
 
-
-
-Want me to now write the Node.js scraper code for the top 10 highest-value targets? Say "scrape that sh_t" and I'll code the automation engines! 😈
