@@ -5,6 +5,110 @@ Job and Internship Providing All Companies Sites
 
 # **🌍 COMPLETE JOB & INTERNSHIP SITE ARSENAL**
 
+---
+
+## International / Visa Sponsorship / Relocation
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| Relocate.me | Job board and relocation platform focused on jobs with visa sponsorship and relocation support. | Tech professionals targeting Europe and global relocation. | Very relocation-centric; clear employer relocation benefits. | relocate.me |
+| Jobbatical | International hiring and relocation platform for global talent. | Professionals moving to Europe or other international hubs. | Strong relocation workflow and employer support. | jobbatical.com |
+| Workeer | German job board for refugees and internationals with work authorization support. | Foreign workers and refugees seeking jobs in Germany. | Strong local focus and integration support. | workeer.de |
+| Jobs for Humanity | Global hiring platform focused on international talent and migration pathways. | Candidates seeking sponsorship-friendly employers. | Mission-driven hiring with mobility support. | jobsforhumanity.com |
+| VisaJobs | Job board focused on visa-sponsored roles, especially in the US. | International professionals targeting the US market. | Simple sponsorship-oriented search. | visajobs.com |
+| Sponsorship Jobs | UK-focused sponsored job listings for international candidates. | Candidates needing UK sponsorship. | Very direct sponsorship filtering. | sponsorshipjobs.co.uk |
+| Euraxess Jobs | EU research jobs and mobility support platform. | Researchers looking for Europe-based opportunities. | Backed by the EU; strong mobility infrastructure. | euraxess.ec.europa.eu/jobs |
+| Academic Positions | Global academic jobs with relocation and visa info in some listings. | University staff, researchers, lecturers. | Strong international academic coverage. | academicpositions.com |
+| FindAPhD Jobs | Academic and research roles, many with visa support. | Researchers, PhD candidates, postdocs. | Academic jobs often overlooked in relocation searches. | findaphd.com/jobs |
+| WorkAbroad | International jobs and overseas placements, often with visa help. | Candidates seeking jobs outside their home country. | Broad global reach with overseas roles. | workabroad.ph |
+
+---
+
+## Remote / Tech / Developer Jobs
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| We Work Remotely | One of the largest remote job boards. | Developers, designers, marketers, ops. | Huge volume of remote roles, often global. | weworkremotely.com |
+| Remote OK | Remote-first job board with global tech roles. | Remote workers in software and product roles. | Fast-moving listings and strong filtering. | remoteok.com |
+| Remotive | Remote jobs board and community. | Tech and non-tech remote candidates. | Good community + curated roles. | remotive.com |
+| Wellfound | Startup job board for early-stage companies. | Startup-minded developers and operators. | Many startups are open to remote and relocation. | wellfound.com |
+| Otta | Curated tech jobs with strong matching. | Tech candidates wanting quality over quantity. | Great UX and transparent company info. | otta.com |
+| Himalayas | Remote jobs board with salary and company data. | Remote job seekers wanting transparency. | Transparent filters and company insights. | himalayas.app |
+| Jobspresso | Curated remote jobs across tech and marketing. | Remote candidates in digital roles. | Long-running, trusted remote board. | jobspresso.co |
+| Pangian | Remote work community and job board. | Digital nomads and remote professionals. | Community plus jobs plus resources. | pangian.com |
+| Cord | Remote hiring platform for global tech talent. | Developers and engineers seeking remote work. | Strong focus on distributed teams. | cord.co |
+| Arc.dev | Pre-vetted remote developers and companies, with strong international hiring. | Developers seeking remote roles with vetted companies. | Focus on pre-vetted talent and global matching. | arc.dev |
+
+---
+
+## Europe-Focused International Hiring
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| Europe Language Jobs | Jobs in Europe for multilingual and international candidates. | Language speakers seeking European jobs. | Strong for multilingual hiring markets. | europe-language-jobs.com |
+| Xpat Jobs | Expat jobs across Europe and international locations. | Expats and globally mobile professionals. | Broad expat-oriented listings. | xpatjobs.com |
+| IamExpat Jobs | Jobs for expats in the Netherlands and Europe. | Expats already in Europe. | Trusted expat ecosystem with local relevance. | iamexpatjobs.com |
+| The Local Jobs | Jobs for internationals in European countries. | English-speaking candidates in Europe. | Country-specific local international audience. | thelocal.jobs |
+| Berlin Startup Jobs | Startup jobs in Berlin, often English-friendly. | Tech talent targeting Berlin. | Great for one of Europe’s biggest startup hubs. | berlinstartupjobs.com |
+| Munich Startup Jobs | Startup jobs in Munich. | Tech and startup candidates. | Local niche board with good employer quality. | munichstartupjobs.com |
+| English-Jobs.com | Job platform for non-native professionals with visa-aware and language-aware filtering. | International professionals seeking English-speaking roles in Europe. | Normalizes job titles across languages and includes fit scoring. | english-jobs.com |
+| Topergo | Map-first job platform for European Economic Area, Switzerland, UK, and neighboring countries. | Candidates wanting geographic visualization of job opportunities in Europe. | Salary and details appear in listings; no applicant account needed. | topergo.app |
+| EuroTalent AI | AI-powered career platform with large curated EU positions and multilingual matching. | Job seekers targeting Europe with AI-driven CV and job matching. | GDPR compliant; supports many EU nations. | euro-talent.eu |
+| JobGrid.eu | Aggregates Europe-first and global public jobs from company career sites. | Candidates wanting verified Europe-first job opportunities. | Shows active jobs and freshness context. | jobgrid.eu/en |
+
+---
+
+## Global Expat / Overseas Job Boards
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| Expat.com Jobs | Expat community with international jobs and country guides. | Expats needing community + job info. | Combines jobs with relocation advice. | expat.com |
+| GoAbroad Jobs | Overseas jobs, teaching, internships, volunteering. | Young professionals and gap-year candidates. | Great for first international move. | goabroad.com/jobs |
+| GoOverseas | Teaching, volunteering, internships abroad. | Teachers and early-career candidates. | Strong for entry-level international experience. | gooverseas.com |
+| Escape the City | Curated jobs with purpose-driven organizations. | People seeking meaningful work abroad. | Mission-driven roles with international appeal. | escapethecity.org |
+| Idealist | Nonprofit and social impact jobs worldwide. | NGO, nonprofit, and social impact professionals. | Huge global nonprofit network. | idealist.org |
+| Devex | Development-sector jobs and aid careers globally. | Aid, NGO, global development professionals. | Excellent for international development careers. | devex.com/jobs |
+| ReliefWeb Jobs | Humanitarian and NGO jobs worldwide. | Aid workers and humanitarian professionals. | One of the best sources for humanitarian roles. | reliefweb.int/jobs |
+| UNjobs | Aggregates UN and international organization jobs. | Candidates targeting UN/IGO careers. | Very useful for multilateral careers. | unjobs.org |
+| Impactpool | Jobs for UN, NGOs, and international organizations. | Development and humanitarian professionals. | Strong matching for global organizations. | impactpool.org |
+| The Muse | Career platform with some international/remote roles. | Professionals exploring employer culture. | Employer branding and transparency. | themuse.com |
+
+---
+
+## Niche Boards by Profession
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| Authentic Jobs | Creative and tech job board established in 2007. | Creative professionals and developers. | Long-standing reputation; many remote-friendly roles. | authenticjobs.com |
+| Dribbble Jobs | Design-focused job board. | Designers and creative professionals. | Strong creative employer pipeline. | dribbble.com/jobs |
+| Behance Jobs | Creative jobs for designers and artists. | Visual creatives. | Great for portfolio-based hiring. | behance.net/joblist |
+| AIGA Design Jobs | Design roles in many industries. | Graphic and UX/UI designers. | Trusted by the design community. | designjobs.aiga.org |
+| Mediabistro | Media, marketing, and creative jobs. | Content, media, and marketing pros. | Long-running niche board. | mediabistro.com |
+| Dice | Tech and IT jobs. | Software, IT, cybersecurity professionals. | Still strong in specialized tech hiring. | dice.com |
+| ClearanceJobs | US security clearance roles. | Defense, intelligence, government contractors. | High-value niche for eligible candidates. | clearancejobs.com |
+| Health eCareers | Healthcare jobs, including some international roles. | Doctors, nurses, allied health professionals. | Strong niche healthcare coverage. | healthecareers.com |
+| Nurse.com Jobs | Nursing jobs and career resources. | Nurses seeking domestic or overseas roles. | Highly specialized and trusted. | nurse.com/jobs |
+| Teach Away | Teaching jobs abroad and online. | Teachers seeking international placements. | Very strong for overseas teaching. | teachaway.com |
+
+---
+
+## More Useful Sites to Check
+
+| Platform | Description | Best For | Why It's Underrated | Link |
+|---|---|---|---|---|
+| MoveUp Careers | International job platform for candidates seeking visa-sponsored jobs abroad. | People open to relocation across Europe and beyond. | Niche focus on mobility and international hiring. | moveupcareers.com |
+| Work4Expats | Global job board for expats, with opportunities in various countries and industries. | Expats and professionals seeking jobs abroad with relocation support. | Focus on international hiring and embassy/NGO roles. | work4expats.com |
+| Yobbers | Jobs abroad in Spain, Portugal, Greece, and other European countries. | Professionals targeting Southern Europe with relocation support. | Offers personal recruiters and relocation experts. | yobbers.com/en |
+| Expat-U | Helps French, German, and Dutch speakers find jobs in Southern Europe. | Language speakers from Northern Europe seeking jobs abroad. | Includes full relocation package in many roles. | expat-u.com |
+| Werklist | Connects talent with verified international jobs and guides through interviews, contracts, permits, and travel. | Professionals wanting a streamlined process from CV to first workday abroad. | End-to-end relocation guidance. | werklist.com/candidates |
+| Eurody | Connects talent directly to employers in Europe & MENA with visa-sponsored opportunities. | Job seekers targeting Europe and the Middle East. | Offers direct applications and fast feedback. | eurody.com |
+| Borderless | Provides location insights and cultural context for international career decisions. | Professionals wanting country and city context before relocating. | Combines job marketplace with referral system. | border-less.life |
+| Globera.io | Relocation ecosystem with verified global jobs, housing, banking, and insurance support. | Workers and students moving abroad. | Goes beyond job listings into relocation services. | globera.io |
+| Hiredge | Helps international professionals find UK visa sponsorship employers and track applications. | Internationally trained professionals targeting the UK. | Checks sponsorship status against official registers. | hiredge.co.uk |
+| Routovia | Platform for international students with visa-sponsored jobs filtered to their profile. | Students and recent graduates. | Verifies visa status on every listing. | routovia.com |
+
+---
+
 
 | Platform | Description | Best For | Why It's Underrated | Link |
 | :--- | :--- | :--- | :--- | :--- |
