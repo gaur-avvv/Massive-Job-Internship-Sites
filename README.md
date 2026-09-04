@@ -7,6 +7,146 @@ Job and Internship Providing All Companies Sites
 
 ---
 
+## A. Visa Sponsorship & Relocation Boards (1–30)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 1 | Jaabz | Tech jobs with visa sponsorship, relocation & remote options | [jaabz.com](https://jaabz.com) |
+| 2 | GYD Career | Verifies sponsor licenses; tracks visa pathways (DE, CA, AU, UAE, UK) | [gydcareer.com](https://gydcareer.com) |
+| 3 | Global Sponsor Hub | Clear sponsorship, relocation & apply-route labels | [globalsponsorhub.com](https://globalsponsorhub.com) |
+| 4 | IFMOSA Work | Verified visa-sponsored roles across 20+ countries | [ifmosawork.com](https://ifmosawork.com) |
+| 5 | Avisa Job | OPT / H-1B / E-3 / TN jobs for US internationals | [avisajob.com](https://avisajob.com) |
+| 6 | Workbeyond | Visa-sponsored search + destination intelligence + AI relocation tools | [workbeyond.com](https://workbeyond.com) |
+| 7 | ISCANET | 400K+ UK/US jobs open to sponsorship with AI CV tools | [joiniscanet.com](https://joiniscanet.com) |
+| 8 | Sponsorshiphub | Career intelligence on verified sponsor employers | [visasponsorshiphub.com](https://visasponsorshiphub.com) |
+| 9 | Globera | Jobs + housing, banking & insurance — end-to-end relocation ecosystem | [globera.io](https://www.globera.io) |
+| 10 | Hiredge | UK sponsorship checked against the official Home Office register | [hiredge.co.uk](https://hiredge.co.uk) |
+| 11 | Routovia | Visa-sponsored jobs filtered for international students & work-hour limits | [routovia.com](https://routovia.com) |
+| 12 | Work4Expats | Global expat board incl. embassies, UN offices & NGOs | [work4expats.com](https://www.work4expats.com) |
+| 13 | Yobbers | Jobs abroad in Spain, Portugal, Greece with free personal guidance | [yobbers.com/en](https://www.yobbers.com/en) |
+| 14 | Expat-U | Southern-Europe jobs with flight, housing & training included | [expat-u.com](https://expat-u.com) |
+| 15 | Werklist | Verified international jobs; guides you from CV to first workday abroad | [werklist.com/candidates](https://werklist.com/candidates) |
+| 16 | Eurody | Direct employer connections in Europe & MENA; 72-hour response guarantee | [eurody.com](https://eurody.com) |
+| 17 | Borderless | Job marketplace + country/city insights & cultural context | [border-less.life](https://border-less.life) |
+| 18 | VisaHunt | 10K+ sponsorship tech jobs cross-checked against government registries | [visa-hunt.com](https://www.visa-hunt.com) |
+| 19 | The Global Move | Hand-curated board for senior engineers (by Relocate.me team) | [globalmove.relocate.me](https://globalmove.relocate.me) |
+| 20 | Relocate.me | Veteran international board; weekly relocation-friendly jobs newsletter | [relocate.me](https://relocate.me) |
+| 21 | ExpatJobs.io | 7,300+ vacancies where relocation & flight packages are explicitly listed | [expatjobs.io](https://expatjobs.io) |
+| 22 | ReloJobs | Daily scan of career pages for relocation/sponsorship roles (incl. non-tech) | [relocationjobs.afrilt.institute](https://relocationjobs.afrilt.institute) |
+| 23 | Relocate.works | Free daily feed of relocation & sponsorship jobs across 100+ role types | [relocate.works](https://relocate.works) |
+| 24 | Relocateviawork | Subscription board of verified sponsorship + relocation roles | [relocateviawork.com](https://relocateviawork.com) |
+| 25 | VisaJobs.xyz | Curated roles + country relocation guides (e.g. Amsterdam) | [visajobs.xyz](https://visajobs.xyz) |
+| 26 | MoveAbroadJobs | "Companies that sponsor" database organized by country | [moveabroadjobs.com](https://moveabroadjobs.com) |
+| 27 | Work With Visa | Sponsorship jobs + directory of relocation/visa support agencies | [workwithvisa.com](https://workwithvisa.com) |
+| 28 | Global Visa Ally | Search engine over 253K+ verified sponsoring employers (premium) | [globalvisaally.com](https://www.globalvisaally.com) |
+| 29 | Topergo | Map-first job platform for EEA, Switzerland & UK; no account needed | [topergo.app](https://www.topergo.app) |
+| 30 | JobGrid.eu | Europe-first jobs scraped from career sites with freshness & salary stats | [jobgrid.eu/en](https://jobgrid.eu/en) |
+
+## B. US H-1B / OPT / International Talent (31–43)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 31 | Optly | Verified sponsorships via historical H-1B LCA data | [optly.app](https://optly.app) |
+| 32 | GlanceJobs | Browser extension showing OPT/H-1B sponsor badges on LinkedIn, Indeed, Dice | [glancejobs.com](https://glancejobs.com) |
+| 33 | HiringFleet | Tracks your CPT/OPT clock & alerts before filing deadlines; 130K+ sponsors | [hiringfleet.com](https://hiringfleet.com) |
+| 34 | VisaPath | Live sponsor intelligence from ATS listings + USCIS employer data | [visa-path.app](https://visa-path.app) |
+| 35 | JobVisor | Scores sponsor likelihood from DOL/USCIS petition records | [jobvisor.net](https://jobvisor.net) |
+| 36 | Visahire | 20K+ verified H-1B roles with salary & sponsor status | [visahire.co](https://visahire.co) |
+| 37 | H1BConnect | 14K+ verified engineering jobs with approval-rate data | [h1b-connect.com](https://www.h1b-connect.com) |
+| 38 | TechHireX | Tech jobs from most-likely H-1B sponsors in competitive US hubs | [techhirex.com](https://techhirex.com) |
+| 39 | Mila AI | AI sourcing from startup career pages, grouped by visa eligibility | [milaaitech.com](https://milaaitech.com) |
+| 40 | OPT Launch | Lane-switched board for CPT/OPT timelines & H-1B sponsor history | [optlaunch.s-coreanalytics.com](https://optlaunch.s-coreanalytics.com) |
+| 41 | SundayApply | Merges Indeed/LinkedIn postings with H-1B approval-rate overlays | [sundayapply.com](https://sundayapply.com) |
+| 42 | Demystifyd | A-grading by sponsorship likelihood, work policy & equity | [demystifyd.com](https://www.demystifyd.com) |
+| 43 | MCT PathAI | Free beta: verified roles only from previously documented sponsors | [mctpathai.com](https://www.mctpathai.com) |
+
+## C. European Boards (44–57)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 44 | JobsForExpats.de | Germany-only: sponsorship, relocation & English-friendly roles | [jobsforexpats.de](https://jobsforexpats.de) |
+| 45 | JobsInEnglish.de | English-speaking roles across Germany, noise-filtered | [jobsinenglish.de](https://jobsinenglish.de) |
+| 46 | Berjobs | English-friendly Berlin startup & tech roles with recruiter matching | [berjobs.com](https://berjobs.com) |
+| 47 | Workeer | Jobs for international & refugee talent in Germany; no temp agencies | [workeer.de/en](https://www.workeer.de/en) |
+| 48 | CityJobOffers | Jobs in Portugal, Greece, Spain & Bulgaria — often with accommodation | [cityjoboffers.com/en](https://cityjoboffers.com/en) |
+| 49 | Global Remote Hub | German, French & Spanish remote roles sorted by your language | [globalremotehub.com](https://globalremotehub.com) |
+| 50 | Go Onwards | 100K+ EU roles; filters for English-speaking, sponsorship & remote | [go-onwards.com](https://go-onwards.com) |
+| 51 | NEARFAR | Same aggregator as #50; live hiring dashboards per company | [worknearfar.com](https://worknearfar.com) |
+| 52 | EngRadar | 44K+ direct-apply tech jobs measured daily from company ATS boards | [engradar.com](https://engradar.com) |
+| 53 | English-Jobs.com | Visa-aware & language-aware filtering; titles normalized in 12 languages | [english-jobs.com](https://www.english-jobs.com) |
+| 54 | EuroTalent AI | 100K+ EU positions with multilingual AI matching; GDPR compliant | [euro-talent.eu](https://euro-talent.eu) |
+| 55 | myimpact.work | Europe's impact-startup jobs across 17 countries | [myimpact.work/en/home](https://myimpact.work/en/home) |
+| 56 | Jobbatical | Talent mobility & relocation services (Estonia/EU origins) | [jobbatical.com](https://jobbatical.com) |
+| 57 | Top Language Jobs | Europe's language-specific jobs for bilingual/multilingual candidates | [toplanguajejobs.com](https://www.toplanguagejobs.com) |
+
+## D. Remote-First Tech Boards (58–74)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 58 | Remote OK | Largest remote-only tech board;身子 clear salary tags | [remoteok.com](https://remoteok.com) |
+| 59 | We Work Remotely | High-traffic remote jobs; strong programming & design categories | [weworkremotely.com](https://weworkremotely.com) |
+| 60 | Remotive | Hand-screened remote roles with company transparency | [remotive.com](https://remotive.com) |
+| 61 | FlexJobs | Hand-vetted remote/flex jobs across all industries (paid) | [flexjobs.com](https://www.flexjobs.com) |
+| 62 | Working Nomads | Curated remote jobs for digital nomads | [workingnomads.com](https://www.workingnomads.com) |
+| 63 | Dynamite Jobs | Curated remote jobs from values-driven companies | [dynamitejobs.com](https://dynamitejobs.com) |
+| 64 | Himalayas | Remote jobs + deep company/culture data | [himalayas.app](https://himalayas.app) |
+| 65 | NoDesk | Remote jobs by category (design, dev, writing, support) | [nodesk.co](https://nodesk.co) |
+| 66 | Remote Rocketship | High-volume aggregator of freshly posted remote roles | [remoterocketship.com](https://www.remoterocketship.com) |
+| 67 | EuropeRemotely | Remote jobs for people working from European time zones | [europeremotely.com](https://europeremotely.com) |
+| 68 | 4 Day Week | Tech jobs at companies with 4-day work weeks | [4dayweek.io](https://4dayweek.io) |
+| 69 | Wellfound | Startup & VC-backed jobs (ex-AngelList Talent) | [wellfound.com](https://wellfound.com) |
+| 70 | Y Combinator Jobs | Roles at YC-backed startups; batch & work-style filters | [workatastartup.com](https://www.workatastartup.com) |
+| 71 | Hacker News Who's Hiring | Monthly "Who is hiring?" threads; direct eng roles | [news.ycombinator.com](https://news.ycombinator.com/submitted?id=whoishiring) |
+| 72 | Cord | Chat-first job search — talk directly to recruiters & hiring managers | [cord.co](https://cord.co) |
+| 73 | Built In | Tech jobs at US hubs (SF, NYC, Austin) with remote filters | [builtin.com](https://builtin.com) |
+| 74 | Dice | Veteran tech job board with strong US presence | [dice.com](https://www.dice.com) |
+
+## E. Hidden & Direct-Apply Boards (75–84)
+
+_Jobs scraped straight from company career pages — apply before the LinkedIn flood._
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 75 | UnlistedRemote | Remote roles from career pages before they hit big boards | [unlistedremote.com](https://unlistedremote.com) |
+| 76 | JoBound | Remote eng jobs that never reach major boards | [jobound.io](https://jobound.io) |
+| 77 | HiddenJobs.dev | Remote tech job finder + AI application workflow | [hiddenjobs.dev](https://hiddenjobs.dev) |
+| 78 | remoet.dev | Track companies' career pages; alerts the day a role posts | [remoet.dev](https://www.remoet.dev) |
+| 79 | Jobs24x | 14,200+ jobs from 2,400+ career pages, updated daily | [jobs24x.com](https://jobs24x.com) |
+| 80 | RemoteHerd | Remote jobs at companies <250 people; salary/timezone filters | [remoteherd.com](https://remoteherd.com) |
+| 81 | Forcepull | Strictly remote, salaries upfront, no hybrid bait | [forcepull.com](https://forcepull.com) |
+| 82 | LeetHire | Blocks your current employer from seeing your profile | [leethire.com](https://leethire.com) |
+| 83 | Findwork.dev | Meta-search across HN, YC, RemoteOK, WWR and more | [findwork.dev](https://findwork.dev) |
+| 84 | Simplify | Simplifies the application process, job tracker + autofill | [simplify.jobs](https://simplify.jobs) |
+
+## F. Vetted Networks & Freelance Marketplaces (85–90)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 85 | Honeypot | Reverse market — companies apply to you (Europe) | [honeypot.io](https://www.honeypot.io) |
+| 86 | Landing.jobs | European tech board with remote focus | [landing.jobs](https://landing.jobs) |
+| 87 | Underdog.io | Invite-style network; hiring managers come to you | [underdog.io](https://underdog.io/software-engineering-jobs) |
+| 88 | Arc.dev | Pre-vetted remote dev roles with visa-sponsorship filters | [arc.dev](https://arc.dev) |
+| 89 | Gun.io | Freelance dev matching with US startups | [gun.io](https://www.gun.io) |
+| 90 | Toptal | Top-3% network; dev, design, finance & PM projects | [toptal.com](https://www.toptal.com) |
+
+## G. Regional & Niche Boards (91–100)
+
+| # | Platform | What it is | Link |
+|---|---|---|---|
+| 91 | MeJobs | MENA jobs incl. embassies, UN offices & intl organizations | [me-jobs.com](https://www.me-jobs.com) |
+| 92 | Devrabic | Connects Arab developers with global remote/relocation opportunities | [devrabic.com](https://devrabic.com) |
+| 93 | EdoMatch | AI-matched recruitment across Africa | [edomatch.com](https://www.edomatch.com) |
+| 94 | Skillsmatch | East African skills matchmaking for digital professionals | [iucea-skillsmatch.org](https://iucea-skillsmatch.org) |
+| 95 | Glints | Leading talent platform in Southeast Asia | [glints.com](https://glints.com) |
+| 96 | Tech In Asia Jobs | Tech roles across Asia's startup ecosystems | [techinasia.com/jobs](https://www.techinasia.com/jobs) |
+| 97 | GetOnBoard | Remote-friendly tech jobs in Latin America | [getonboard.dev](https://www.getonboard.dev) |
+| 98 | Archi-jobs | Architecture, design, BIM & urban planning jobs across 15 countries | [archi-jobs.eu](https://www.archi-jobs.eu) |
+| 99 | Authentic Jobs | Creative, design & dev roles since 2007 | [authenticjobs.com](https://authenticjobs.com) |
+| 100 | Jobberman | West Africa's largest job & recruitment platform | [jobberman.com](https://www.jobberman.com) |
+
+
+---
+
 ## International / Visa Sponsorship / Relocation
 
 | Platform | Description | Best For | Why It's Underrated | Link |
