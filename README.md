@@ -48,7 +48,6 @@ Job and Internship Providing All Companies Sites
 |---|---|---|---|
 | 31 | Optly | Verified sponsorships via historical H-1B LCA data | [optly.app](https://optly.app) |
 | 32 | GlanceJobs | Browser extension showing OPT/H-1B sponsor badges on LinkedIn, Indeed, Dice | [glancejobs.com](https://glancejobs.com) |
-- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder
 | 33 | HiringFleet | Tracks your CPT/OPT clock & alerts before filing deadlines; 130K+ sponsors | [hiringfleet.com](https://hiringfleet.com) |
 | 34 | VisaPath | Live sponsor intelligence from ATS listings + USCIS employer data | [visa-path.app](https://visa-path.app) |
 | 35 | JobVisor | Scores sponsor likelihood from DOL/USCIS petition records | [jobvisor.net](https://jobvisor.net) |
