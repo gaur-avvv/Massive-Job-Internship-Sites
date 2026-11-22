@@ -196,6 +196,7 @@ _Jobs scraped straight from company career pages — apply before the LinkedIn f
 | Topergo | Map-first job platform for European Economic Area, Switzerland, UK, and neighboring countries. | Candidates wanting geographic visualization of job opportunities in Europe. | Salary and details appear in listings; no applicant account needed. | topergo.app |
 | EuroTalent AI | AI-powered career platform with large curated EU positions and multilingual matching. | Job seekers targeting Europe with AI-driven CV and job matching. | GDPR compliant; supports many EU nations. | euro-talent.eu |
 | JobGrid.eu | Aggregates Europe-first and global public jobs from company career sites. | Candidates wanting verified Europe-first job opportunities. | Shows active jobs and freshness context. | jobgrid.eu/en |
+| EuroJobs.ai | IT jobs in the EU, EEA, UK and Switzerland, read hourly from employers' own ATS job boards. | Tech candidates who need visa sponsorship, relocation or English-speaking roles. | Filters for visa sponsorship, relocation and English-speaking roles; free to search. | eurojobs.ai |
 
 ---
 
