@@ -227,6 +227,7 @@ _Jobs scraped straight from company career pages — apply before the LinkedIn f
 | Mediabistro | Media, marketing, and creative jobs. | Content, media, and marketing pros. | Long-running niche board. | mediabistro.com |
 | Dice | Tech and IT jobs. | Software, IT, cybersecurity professionals. | Still strong in specialized tech hiring. | dice.com |
 | ClearanceJobs | US security clearance roles. | Defense, intelligence, government contractors. | High-value niche for eligible candidates. | clearancejobs.com |
+| infosecjobs.io | Cybersecurity and AI jobs from employers' own job boards, with posted pay. | Security analysts, engineers and entry-level candidates. | Shows posted pay and which certifications employers ask for. | infosecjobs.io |
 | Health eCareers | Healthcare jobs, including some international roles. | Doctors, nurses, allied health professionals. | Strong niche healthcare coverage. | healthecareers.com |
 | Nurse.com Jobs | Nursing jobs and career resources. | Nurses seeking domestic or overseas roles. | Highly specialized and trusted. | nurse.com/jobs |
 | Teach Away | Teaching jobs abroad and online. | Teachers seeking international placements. | Very strong for overseas teaching. | teachaway.com |
